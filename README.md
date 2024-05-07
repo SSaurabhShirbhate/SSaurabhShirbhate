@@ -180,8 +180,7 @@
       </a>
 
 ---
-
-      
+    
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -241,11 +240,8 @@
           width="40"
           height="40"
         />
-      </a>
-     
----
-
-<a
+      </a> 
+      <a
         href="https://www.adobe.com/in/products/illustrator.html"
         target="_blank"
         rel="noreferrer"
@@ -275,7 +271,7 @@
           style="background-color: white;"
         />
       </a>
-      <a
+<!--       <a
         href="https://www.adobe.com/products/xd.html"
         target="_blank"
         rel="noreferrer"
@@ -286,7 +282,7 @@
           width="40"
           height="40"
         />
-      </a>
+      </a> -->
     </p>
     <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
    <p>

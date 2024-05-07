@@ -3,14 +3,15 @@
     <h3 align="center">A passionate Full Stack Developer from India</h3>
 
    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="">
-    - 🌱 I’m currently learning **NextJs , ThreeJs** <br>
-    - 💬 Ask me about **react,
-    gsap, framer-motion** <br>
+    - 🌱 I’m currently learning **NextJs , ThreeJs** 
+    <br>
+    - 💬 Ask me about **react, gsap, framer-motion** 
+    <br>
     - 📫 How to reach me **saurabhshirbhate96@gmail.com**
     <br>
     - ⚡ Fun fact **I talk to my Laptop while coding. It hasn't responded yet,
     but I'm convinced it's just shy!**
-
+<br>
   <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
@@ -32,8 +33,6 @@
           width="40"
       /></a>
       </p>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -284,7 +283,7 @@
         />
       </a>
     </p>
-
+<br>
    <p>
       <img
         align="left"

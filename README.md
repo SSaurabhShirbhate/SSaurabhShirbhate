@@ -51,7 +51,7 @@
               height="40"
             />
           </a>
-          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+          &nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
               alt="cplusplus"
@@ -59,7 +59,7 @@
               height="40"
             />
           </a>
-          <a href="https://www.java.com" target="_blank" rel="noreferrer">
+          &nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer">
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
               alt="java"
@@ -67,7 +67,7 @@
               height="40"
             />
           </a>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          &nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
               alt="html5"
@@ -75,7 +75,7 @@
               height="40"
             />
           </a>
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
               alt="css3"
@@ -83,7 +83,7 @@
               height="40"
             />
           </a>
-          <a
+          &nbsp;<a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
@@ -95,7 +95,7 @@
           height="40"
         />
       </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      &nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
           alt="react"
@@ -103,7 +103,7 @@
           height="40"
         />
       </a>
-            <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+            &nbsp;<a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
           alt="redux"
@@ -111,7 +111,7 @@
           height="40"
         />
       </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+      &nbsp;<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
           alt="sass"
@@ -119,7 +119,7 @@
           height="40"
         />
       </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      &nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
           alt="tailwind"
@@ -127,7 +127,7 @@
           height="40"
         />
       </a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        &nbsp;<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
           alt="nextjs"
@@ -146,7 +146,7 @@
           height="40"
         />
       </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      &nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
           alt="mysql"
@@ -154,7 +154,7 @@
           height="40"
         />
       </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
           alt="nodejs"
@@ -162,7 +162,7 @@
           height="40"
         />
       </a>
-      <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+     &nbsp;<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
           alt="nuxtjs"
@@ -170,7 +170,7 @@
           height="40"
         />
       </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      &nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
           alt="express"
@@ -189,7 +189,7 @@
           height="40"
         />
         </a>
-      <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+     &nbsp;<a href="https://www.framer.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"
           alt="framer"
@@ -197,7 +197,7 @@
           height="40"
         />
       </a>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+     &nbsp;<a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
           alt="php"
@@ -205,7 +205,7 @@
           height="40"
         />
       </a>
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      &nbsp;<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img
           src="https://reactnative.dev/img/header_logo.svg"
           alt="reactnative"
@@ -213,7 +213,7 @@
           height="40"
         />
       </a>
-      <a
+     &nbsp;<a
         href="https://www.typescriptlang.org/"
         target="_blank"
         rel="noreferrer"
@@ -225,7 +225,7 @@
           height="40"
         />
       </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+     &nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
           alt="bootstrap"
@@ -233,7 +233,7 @@
           height="40"
         />
       </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
           alt="git"
@@ -241,7 +241,7 @@
           height="40"
         />
       </a> 
-      <a
+   &nbsp;<a
         href="https://www.adobe.com/in/products/illustrator.html"
         target="_blank"
         rel="noreferrer"
@@ -253,7 +253,7 @@
           height="40"
         />
       </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
           alt="linux"
@@ -262,7 +262,7 @@
         />
       </a>
       
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
           alt="photoshop"
@@ -283,7 +283,7 @@
           height="40"
         />
       </a> -->
-    </p>
+</p>
     <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
    <p>
 	   

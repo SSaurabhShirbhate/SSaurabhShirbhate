@@ -285,22 +285,24 @@
     <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
 <br>
    <p>
+      <p>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ssaurabhshirbhate&show_icons=true&locale=en&layout=compact"
         alt="ssaurabhshirbhate"
+	width="400"
       />
     </p>
 
-   <p>
-      &nbsp;<img
+<p>
+      <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=ssaurabhshirbhate&show_icons=true&locale=en"
         alt="ssaurabhshirbhate"
       />
     </p>
 
-  <p>
+<p>
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=ssaurabhshirbhate&"
@@ -313,16 +315,16 @@
         alt="ssaurabhshirbhate"
       />
     </p>
-
-   <p align="left">
+<!-- <p align="left">
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
           src="https://github-profile-trophy.vercel.app/?username=ssaurabhshirbhate"
           alt="ssaurabhshirbhate"
       /></a>
-    </p>
-    <h2 align="center">Talk to me here</h2>
-        <p align="center">
-          </p>
-        <h2>Cheak out my repos here</h3>
+    </p> -->
+
+<p align="center">
+             <h2>Cheak out my repos here</h3>
         <p>⬇️⬇️⬇️⬇️⬇️⬇️</p>
+          </p>
+       

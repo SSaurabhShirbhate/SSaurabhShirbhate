@@ -1,5 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ)](https://ssaurabhshirbhate.io)
-    <h1 align="center">Hi 👋, I'm Saurabh</h1>
+[![MasterHead](https://camo.githubusercontent.com/edaf7f9ed5e46054f007215e170f3a2aa6a65cb09da9f233aea72623e9148fc8/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30325f6e65772e676966)](https://ssaurabhshirbhate.io)
+<!--[![MasterHead](https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ)](https://ssaurabhshirbhate.io)-->
+
+<h1 align="center">Hi 👋, I'm Saurabh</h1>
     <h3 align="center">A passionate Full Stack Developer from India</h3>
 
    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="">
@@ -33,8 +35,11 @@
           width="40"
       /></a>
       </p>
-      
+<br>
+<br>
+
 ---
+
 
   <h3 align="left">Languages and Tools:</h3>
     <p align="left">
@@ -130,8 +135,10 @@
           height="40"
         />
       </a>
-        <br>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        
+---
+
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
           alt="mongodb"
@@ -171,10 +178,9 @@
           height="40"
         />
       </a>
-      
-      
-      
-<br>
+
+---
+
       
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img
@@ -236,8 +242,10 @@
           height="40"
         />
       </a>
-      <br>
-      <a
+     
+---
+
+<a
         href="https://www.adobe.com/in/products/illustrator.html"
         target="_blank"
         rel="noreferrer"
@@ -248,9 +256,7 @@
           width="40"
           height="40"
         />
-      </a>
-      
-      
+      </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -283,9 +289,11 @@
       </a>
     </p>
     <img width="100%" align="right" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
-<br>
    <p>
-      <p>
+	   
+---
+
+ <p>
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ssaurabhshirbhate&show_icons=true&locale=en&layout=compact"

@@ -1,6 +1,6 @@
-<img align="center" width="900" height="250" style="object-fit: cover; margin: 0 auto;"  src="https://camo.githubusercontent.com/edaf7f9ed5e46054f007215e170f3a2aa6a65cb09da9f233aea72623e9148fc8/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30325f6e65772e676966" alt="">
+<!--<img align="center" width="900" height="250" style="object-fit: cover; margin: 0 auto;"  src="https://camo.githubusercontent.com/edaf7f9ed5e46054f007215e170f3a2aa6a65cb09da9f233aea72623e9148fc8/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30325f6e65772e676966" alt="">-->
 
-<!-- [![MasterHead](https://camo.githubusercontent.com/edaf7f9ed5e46054f007215e170f3a2aa6a65cb09da9f233aea72623e9148fc8/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30325f6e65772e676966)](https://ssaurabhshirbhate.io) -->
+[![MasterHead](https://camo.githubusercontent.com/edaf7f9ed5e46054f007215e170f3a2aa6a65cb09da9f233aea72623e9148fc8/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30325f6e65772e676966)](https://ssaurabhshirbhate.io)
 
 <!--[![MasterHead](https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ)](https://ssaurabhshirbhate.io)-->
 

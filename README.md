@@ -77,6 +77,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=ssaurabhshirbhate&icon=7&color=0)](https://visitcount.itsvg.in)
 
+<img
+        src="https://komarev.com/ghpvc/?username=ssaurabhshirbhate&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ssaurabhshirbhate"
+      />
+
 <p align="center">
              <h2>Cheak out my repos here</h3>
         <p>⬇️⬇️⬇️⬇️⬇️⬇️</p>

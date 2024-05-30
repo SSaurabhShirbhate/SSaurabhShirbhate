@@ -10,7 +10,7 @@
 
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="">
-    - 🌱 I’m currently learning **NextJs , ThreeJs** <br>
+    - 🌱 I’m currently learning **NextJs , ThreeJs, TypeScript** <br>
     - 💬 Ask me about **react,
     gsap, framer-motion** <br>
     - 📫 How to reach me **saurabhshirbhate96@gmail.com**

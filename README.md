@@ -9,13 +9,11 @@
 
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="">
-    - 🌱 I’m currently learning **NextJs , ThreeJs, TypeScript** <br>
-    - 💬 Ask me about **react,
-    gsap, framer-motion** <br>
-    - 📫 How to reach me **saurabhshirbhate96@gmail.com**
-    <br>
-    - ⚡ Fun fact **I talk to my Laptop while coding. It hasn't responded yet,
-    but I'm convinced it's just shy!**
+- 🌱 I’m currently learning **NextJs , ThreeJs, TypeScript** <br>
+- 💬 Ask me about **react, gsap, framer-motion** <br>
+- 📫 How to reach me **saurabhshirbhate96@gmail.com** <br>
+- ⚡ Fun fact **I talk to my Laptop while coding. It hasn't responded yet, but I'm convinced it's just shy!**
+
 
 <!-- ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabh.shirbhate._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhshirbhate) Proudly created with GPRM ( https://gprm.itsvg.in ) -->

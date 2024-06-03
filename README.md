@@ -7,7 +7,6 @@
 <br>
 
 
-
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="">
 
 
